@@ -4,13 +4,6 @@
 **File:** `tiesverse_stack_recommender.html`
 **Deadline:** 10th April 2026, 11:59 PM IST
 
----
-
-> This is a raw build log, not a polished essay.
-> Written as decisions were made — what was tried, what broke, what changed and why.
-
----
-
 ## Entry 01 — 09 Apr 2026 · 10:15 AM
 **Phase: Brief reading + first constraint analysis**
 
